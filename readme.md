@@ -1,8 +1,8 @@
 ![Logo del Proyecto](https://computomovil.com/imags/logo1.jpg)
 
-# Persistencia SP
+# LazyColumn CM
 
-Proyecto que muestra la manera de generar persistencia usando SharedPreferences.
+Proyecto que muestra la manera de usar una LazyColumn en Compose para presentar un listado de elementos.
 
 ![Versión](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Licencia](https://img.shields.io/badge/license-MIT-green.svg)
@@ -15,7 +15,7 @@ Proyecto que muestra la manera de generar persistencia usando SharedPreferences.
 
 ## Descripción
 
-Proyecto que muestra la manera de generar persistencia usando SharedPreferences y la plantilla Basic Activity para el diplomado de desarrollo de aplicaciones para dispositivos móviles.
+Proyecto que usa el composable LazyColumn y la plantilla Empty Activity para la clase de Cómputo Móvil en el semestre 2026-2.
 
 ## Licencia
 
